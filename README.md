@@ -211,7 +211,7 @@ The system is evaluated using recommendation quality analysis such as:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hammad Ihsan**
 Bachelor of Artificial Intelligence (Student)
